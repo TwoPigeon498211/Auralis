@@ -8,11 +8,11 @@ Create a designated music appliance, which boots seamlessly into a beautiful aud
 
 ## Status
 
-Core audio functionality is in development
+Core audio functionality is complete
 
 ✅Seperate audio and video into seperate outputs
 ✅Airplay
 ✅Spotify Connect
-⏳Bluetooth Connection
+✅Bluetooth Connection
 
 More information will be available further into development
